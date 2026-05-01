@@ -10,3 +10,6 @@ example/initiate-test-no-design.html
 example/shopify-ui.html
 example/direct/curl_test_remittance.php
 example/test-sample-template.html
+
+# Ignore node modules
+node_modules/
